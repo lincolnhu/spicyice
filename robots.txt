@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lincolnhu.github.io/spicyice//sitemap.xml
+Sitemap: https://lincolnhu.github.io/spicyice/sitemap.xml
